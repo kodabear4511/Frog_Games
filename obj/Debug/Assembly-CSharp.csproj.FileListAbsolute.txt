@@ -1,0 +1,50 @@
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Dakota\Documents\new game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Dakota\Documents\new game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Dakota\Documents\new game\obj\Debug\Assembly-CSharp.dll
+C:\Users\Dakota\Documents\new game\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEngine.Advertisements.xml
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Media Server\Desktop\new game\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Media Server\Desktop\new game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Media Server\Desktop\new game\obj\Debug\Assembly-CSharp.dll
+C:\Users\Media Server\Desktop\new game\obj\Debug\Assembly-CSharp.pdb
